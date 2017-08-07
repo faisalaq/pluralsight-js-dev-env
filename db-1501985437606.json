@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 17114517,
+      "firstName": "Jeff",
+      "lastName": "Heathcote",
+      "email": "Donny95@hotmail.com"
+    },
+    {
+      "id": 76730235,
+      "firstName": "Bridgette",
+      "lastName": "Douglas",
+      "email": "Michaela_Rath17@gmail.com"
+    },
+    {
+      "id": 13633793,
+      "firstName": "Sabrina",
+      "lastName": "Sauer",
+      "email": "Marianna59@gmail.com"
+    },
+    {
+      "id": 40068909,
+      "firstName": "Daryl",
+      "lastName": "Bernier",
+      "email": "Kaya_Kassulke98@yahoo.com"
+    }
+  ]
+}
